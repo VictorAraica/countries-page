@@ -31,7 +31,7 @@ export default function country({ data, borders }) {
       <div className="flex flex-col gap-10 w-11/12 mx-auto mb-6">
         <Link href={`/`}>
           <button className="flex self-start content-center items-center bg-white dark:bg-dark-blue py-2 px-8 text-sm rounded-md">
-            <span class="material-symbols-outlined mr-3">
+            <span className="material-symbols-outlined mr-3">
               keyboard_backspace
             </span>
             Back
